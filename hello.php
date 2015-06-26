@@ -1,4 +1,5 @@
 <?php
-	echo "Hello World!!!";
+	echo "Bump of Chicken";
+	echo "Hello World";
 ?>
 
